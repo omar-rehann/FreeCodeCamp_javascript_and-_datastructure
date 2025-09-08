@@ -12,10 +12,7 @@ This project is a simple JavaScript code that prints a pyramid shape using chara
       ###      
      #####     
     #######    
-   #########   
-  ###########  
- ############# 
-###############
+ 
 
 
 .
